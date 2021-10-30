@@ -18,5 +18,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gmain.cpp" />
+    <ClCompile Include="CAMERA.cpp" />
+    <ClCompile Include="MODEL.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CAMERA.h" />
+    <ClInclude Include="MODEL.h" />
+    <ClInclude Include="PLANE.h" />
   </ItemGroup>
 </Project>
